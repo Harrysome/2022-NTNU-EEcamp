@@ -7,4 +7,4 @@ Arduino Mbot 上課用檔案
 
 Libraries using : [Makeblock Library](https://github.com/Makeblock-official/Makeblock-Libraries)
 
-Apppinventor 擴充 http://appstatic.makeblock.com/extension/makeblock_2.0.4.aix
+Appinventor 擴充 http://appstatic.makeblock.com/extension/makeblock_2.0.4.aix
