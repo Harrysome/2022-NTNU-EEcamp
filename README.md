@@ -5,6 +5,6 @@ Arduino Mbot 上課用檔案
 
 右上角的Code(綠色)點開後按下載壓縮檔。
 
-Libraries using : [Makeblock Library](https://github.com/Makeblock-official/Makeblock-Libraries)
+Using Library: [Makeblock Library](https://github.com/Makeblock-official/Makeblock-Libraries)
 
-Appinventor 擴充 http://appstatic.makeblock.com/extension/makeblock_2.0.4.aix
+Appinventor 擴充(只要複製網址，不要下載) http://appstatic.makeblock.com/extension/makeblock_2.0.4.aix
