@@ -3,7 +3,7 @@ Mbot 上課用檔案
 
 **如果你看到我的話代表你成功了**
 
-右上角的Code(綠色)點開後按下載壓縮檔。
+右上角的Code(綠色)點開後按下載壓縮檔，下載完成後解壓縮到桌面
 
 Library refrence: [Makeblock Library](https://github.com/Makeblock-official/Makeblock-Libraries)
 
