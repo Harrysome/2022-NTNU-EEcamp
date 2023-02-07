@@ -8,3 +8,5 @@ Mbot 上課用檔案
 Library refrence: [Makeblock Library](https://github.com/Makeblock-official/Makeblock-Libraries)
 
 Appinventor 擴充URL(只要**複製網址**，**不要下載**) http://appstatic.makeblock.com/extension/makeblock_2.0.4.aix
+
+Create & edit by Harrysome Chou, NTNU EE
